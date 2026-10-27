@@ -54,18 +54,8 @@ This project was originally completed from a provided Tic-Tac-Toe coding challen
 
 ## Live Site
 
-Coming soon.
+https://nilesleesmith.github.io/play-tic-tac-toe/
 
 ## Screenshots
 
-### Desktop
-
 ![Tic-Tac-Toe desktop view](./screenshots/play-tic-tac-toe-desktop.png)
-
-### Tablet
-
-![Tic-Tac-Toe tablet view](./screenshots/play-tic-tac-toe-tablet.png)
-
-### Mobile
-
-![Tic-Tac-Toe mobile view](./screenshots/play-tic-tac-toe-mobile.png)
